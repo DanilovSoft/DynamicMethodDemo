@@ -15,19 +15,9 @@ namespace ConsoleApp1
         static void Main()
         {
             Console.Title = Path.GetFileName(Assembly.GetEntryAssembly().Location);
-            DynamicMethodFactory.CreateMethodCall(typeof(global::Program).GetMethod("Sqr"), true);
-            Console.ReadLine();
 
-            //Item item = new Item();
+            //DynamicMethodFactory.CreateMethodCall(typeof(global::Program).GetMethod("Sqr"), true);
 
-
-            //// ...
-            //typeof(Item).GetProperty("ItemId").SetValue(item, 123);
-            // ...
-
-
-
-            //new global::Program().Demo();
             Logger logger = new Logger();
             ILogger staticProxy = TypeProxy.Create<ILogger, StaticProxy>(logger);
             ILogger dynamicMethodProxy = TypeProxy.Create<ILogger, DynamicMethodProxy<Logger>>(logger);
@@ -38,7 +28,6 @@ namespace ConsoleApp1
             Console.WriteLine();
 
             // Прогрев CodeDOM.
-            //for (int i = 0; i < 1; i++)
             {
                 var sw = Stopwatch.StartNew();
                 string refStr = "";
@@ -48,7 +37,6 @@ namespace ConsoleApp1
             }
 
             // Прогрев Dynamic Method.
-            //for (int i = 0; i < 1; i++)
             {
                 var sw = Stopwatch.StartNew();
                 string refStr = "";
@@ -58,7 +46,6 @@ namespace ConsoleApp1
             }
 
             // Прогрев Dynamic Expression.
-            //for (int i = 0; i < 1; i++)
             {
                 var sw = Stopwatch.StartNew();
                 string refStr = "";
@@ -68,7 +55,6 @@ namespace ConsoleApp1
             }
 
             // Прогрев MethodInfo.
-            //for (int i = 0; i < 1; i++)
             {
                 var sw = Stopwatch.StartNew();
                 string refStr = "";
@@ -78,7 +64,6 @@ namespace ConsoleApp1
             }
 
             // Прогрев Static.
-            //for (int i = 0; i < 1; i++)
             {
                 var sw = Stopwatch.StartNew();
                 string refStr = "";

@@ -1,5 +1,4 @@
-﻿using Contract;
-using DynamicMethodsLib;
+﻿using DynamicMethodsLib;
 using System.Reflection;
 
 namespace Contract

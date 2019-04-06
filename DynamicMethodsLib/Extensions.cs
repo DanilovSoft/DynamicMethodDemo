@@ -5,7 +5,7 @@ namespace System.Reflection
 {
     public static class MethodInfoExtensions
     {
-        private static readonly ConcurrentDictionary<MethodInfo, Func<object, object[], object>> _dynamicMethods = 
+        private static readonly ConcurrentDictionary<MethodInfo, Func<object, object[], object>> _methodsDict = 
             new ConcurrentDictionary<MethodInfo, Func<object, object[], object>>();
 
         private static readonly ConcurrentDictionary<MethodInfo, Func<object, object[], object>> _dynamicExpressions = 
@@ -16,7 +16,7 @@ namespace System.Reflection
         /// </summary>
         public static object InvokeFast(this MethodInfo methodInfo, object instance, object[] args, bool skipConvertion = true)
         {
-            Func<object, object[], object> func = _dynamicMethods.GetOrAdd(methodInfo, tm => DynamicMethodFactory.CreateMethodCall(methodInfo, skipConvertion));
+            Func<object, object[], object> func = _methodsDict.GetOrAdd(methodInfo, m => DynamicMethodFactory.CreateMethodCall(m, skipConvertion));
             object result = func.Invoke(instance, args);
             return result;
         }
@@ -26,10 +26,12 @@ namespace System.Reflection
 
 //        public static object InvokeFast(this MethodInfo methodInfo, object instance, object[] args)
 //        {
-//            // ...?
+//            var method = _methodsDict.GetOrAdd(methodInfo, m => DynamicMethodFactory.CreateMethodCall(m));
+//            return method(instance, args);
 //        }
 
-//#pragma warning restore IDE0060 // Удалите неиспользуемый параметр
+
+//#pragma warning restore IDE0060
 
         /// <summary>
         /// Dynamic Expression.

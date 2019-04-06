@@ -44,7 +44,7 @@ namespace DynamicMethodsLib
         private static AssemblyBuilder DefineDynamicAssembly(out string name)
         {
             var ctor = typeof(AllowPartiallyTrustedCallersAttribute).GetConstructor(Type.EmptyTypes);
-            var allowPartiallyTrustedCallersAttribute = new CustomAttributeBuilder(ctor, new object[] { });
+            //var allowPartiallyTrustedCallersAttribute = new CustomAttributeBuilder(ctor, new object[] { });
 
             //ctor = typeof(SecurityTransparentAttribute).GetConstructor(Type.EmptyTypes);
             //var securityTransparentAttribute = new CustomAttributeBuilder(ctor, new object[] { });

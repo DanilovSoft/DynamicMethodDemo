@@ -1,11 +1,5 @@
-﻿using Contract;
-using DynamicMethodsLib;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using DynamicMethodsLib;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Contract
 {
@@ -20,7 +14,7 @@ namespace Contract
 
         public override object Invoke(MethodInfo targetMethod, object[] args)
         {
-            return targetMethod.Invoke(_logger, args);
+            return targetMethod.InvokeFast(_logger, args);
         }
     }
 }

@@ -10,3 +10,15 @@ C:\Users\miles\source\repos\DynamicMethodTest\Contract\obj\Release\netcoreapp2.2
 C:\Users\miles\source\repos\DynamicMethodTest\Contract\bin\Release\netcoreapp2.2\DynamicMethodsLib.dll
 C:\Users\miles\source\repos\DynamicMethodTest\Contract\bin\Release\netcoreapp2.2\DynamicMethodsLib.pdb
 C:\Users\miles\source\repos\DynamicMethodTest\Contract\obj\Release\netcoreapp2.2\Contract.csproj.CopyComplete
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\bin\Release\netcoreapp2.2\Contract.deps.json
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\bin\Release\netcoreapp2.2\Contract.dll
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\bin\Release\netcoreapp2.2\Contract.pdb
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\bin\Release\netcoreapp2.2\DynamicMethodsLib.dll
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\bin\Release\netcoreapp2.2\DynamicMethodsLib.pdb
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\obj\Release\netcoreapp2.2\Contract.csprojAssemblyReference.cache
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\obj\Release\netcoreapp2.2\Contract.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\obj\Release\netcoreapp2.2\Contract.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\obj\Release\netcoreapp2.2\Contract.AssemblyInfo.cs
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\obj\Release\netcoreapp2.2\Contract.csproj.CopyComplete
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\obj\Release\netcoreapp2.2\Contract.dll
+C:\Users\miles\source\repos\DynamicMethodDemo\Contract\obj\Release\netcoreapp2.2\Contract.pdb
