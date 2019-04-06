@@ -1,0 +1,11 @@
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\bin\Debug\netcoreapp2.2\DispatchProxy.deps.json
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\bin\Debug\netcoreapp2.2\DispatchProxy.runtimeconfig.json
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\bin\Debug\netcoreapp2.2\DispatchProxy.runtimeconfig.dev.json
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\bin\Debug\netcoreapp2.2\DispatchProxy.dll
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\obj\Debug\netcoreapp2.2\DispatchProxy.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\obj\Debug\netcoreapp2.2\DispatchProxy.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\obj\Debug\netcoreapp2.2\DispatchProxy.AssemblyInfo.cs
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\bin\Debug\netcoreapp2.2\DispatchProxy.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\obj\Debug\netcoreapp2.2\DispatchProxy.dll
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\obj\Debug\netcoreapp2.2\DispatchProxy.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\DispatchProxy\obj\Debug\netcoreapp2.2\DispatchProxy.csprojAssemblyReference.cache

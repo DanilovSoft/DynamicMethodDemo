@@ -1,0 +1,9 @@
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\bin\Debug\netstandard2.0\Contract.deps.json
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\bin\Debug\netstandard2.0\Contract.dll
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\bin\Debug\netstandard2.0\Contract.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\obj\Debug\netstandard2.0\Contract.csprojAssemblyReference.cache
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\obj\Debug\netstandard2.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfo.cs
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\obj\Debug\netstandard2.0\Contract.dll
+C:\Users\miles\source\repos\DynamicMethodTest\Contract\obj\Debug\netstandard2.0\Contract.pdb

@@ -1,0 +1,16 @@
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\CoreConsoleApp.deps.json
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\CoreConsoleApp.runtimeconfig.json
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\CoreConsoleApp.runtimeconfig.dev.json
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\CoreConsoleApp.dll
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\CoreConsoleApp.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\DynamicMethodsLib.dll
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\DynamicMethodsLib.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\obj\Debug\netcoreapp2.2\CoreConsoleApp.csprojAssemblyReference.cache
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\obj\Debug\netcoreapp2.2\CoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\obj\Debug\netcoreapp2.2\CoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\obj\Debug\netcoreapp2.2\CoreConsoleApp.AssemblyInfo.cs
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\obj\Debug\netcoreapp2.2\CoreConsoleApp.csproj.CopyComplete
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\obj\Debug\netcoreapp2.2\CoreConsoleApp.dll
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\obj\Debug\netcoreapp2.2\CoreConsoleApp.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\Contract.dll
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodTest\bin\Debug\netcoreapp2.2\Contract.pdb

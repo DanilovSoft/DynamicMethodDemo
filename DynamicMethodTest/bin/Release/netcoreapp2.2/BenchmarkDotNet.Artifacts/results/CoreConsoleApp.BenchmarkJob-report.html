@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>CoreConsoleApp.BenchmarkJob</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.11.4, OS=Windows 10.0.17763.348 (1809/October2018Update/Redstone5)
+Intel Core i5-8600K CPU 3.60GHz (Coffee Lake), 1 CPU, 6 logical and 6 physical cores
+.NET Core SDK=2.2.101
+  [Host]     : .NET Core 2.2.0 (CoreCLR 4.6.27110.04, CoreFX 4.6.27110.04), 64bit RyuJIT
+  DefaultJob : .NET Core 2.2.0 (CoreCLR 4.6.27110.04, CoreFX 4.6.27110.04), 64bit RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>     Method</th><th>   Mean</th><th>   Error</th><th>   StdDev</th>
+</tr>
+</thead><tbody><tr><td>Static</td><td>51.77 ns</td><td>0.8738 ns</td><td>0.8173 ns</td>
+</tr><tr><td>ColdDynamicMethod</td><td>869,727.15 ns</td><td>66,977.4531 ns</td><td>197,484.5317 ns</td>
+</tr><tr><td>DynamicMethod</td><td>93.21 ns</td><td>1.0437 ns</td><td>0.9763 ns</td>
+</tr></tbody></table>
+</body>
+</html>

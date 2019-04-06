@@ -1,0 +1,9 @@
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\bin\Debug\netcoreapp2.2\DynamicMethodsLib.deps.json
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\bin\Debug\netcoreapp2.2\DynamicMethodsLib.dll
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\bin\Debug\netcoreapp2.2\DynamicMethodsLib.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\obj\Debug\netcoreapp2.2\DynamicMethodsLib.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\obj\Debug\netcoreapp2.2\DynamicMethodsLib.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\obj\Debug\netcoreapp2.2\DynamicMethodsLib.AssemblyInfo.cs
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\obj\Debug\netcoreapp2.2\DynamicMethodsLib.dll
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\obj\Debug\netcoreapp2.2\DynamicMethodsLib.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\DynamicMethodsLib\obj\Debug\netcoreapp2.2\DynamicMethodsLib.csprojAssemblyReference.cache

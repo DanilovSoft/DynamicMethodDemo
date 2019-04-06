@@ -1,0 +1,6 @@
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\bin\Release\StaticAssembly.dll
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\bin\Release\StaticAssembly.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\obj\Release\StaticAssembly.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\obj\Release\StaticAssembly.dll
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\obj\Release\StaticAssembly.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\obj\Release\StaticAssembly.csprojAssemblyReference.cache

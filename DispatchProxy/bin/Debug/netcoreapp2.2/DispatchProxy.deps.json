@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "877662ffa1132fef21b48aca4944d4fb1ac009bc"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "DispatchProxy/1.0.0": {
+        "dependencies": {
+          "System.Reflection.DispatchProxy": "4.5.1"
+        },
+        "runtime": {
+          "DispatchProxy.dll": {}
+        }
+      },
+      "System.Reflection.DispatchProxy/4.5.1": {}
+    }
+  },
+  "libraries": {
+    "DispatchProxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reflection.DispatchProxy/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FsYDYPmR2coa1BCo9mquY5A1hy5RSQq7ZJH3qaMoy3lCTUMZvB4lEFqX1i4XQINVjda4e7p2PN1DHk8AV3wfXw==",
+      "path": "system.reflection.dispatchproxy/4.5.1",
+      "hashPath": "system.reflection.dispatchproxy.4.5.1.nupkg.sha512"
+    }
+  }
+}

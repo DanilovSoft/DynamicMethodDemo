@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodTest\\CoreConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\Contract\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\miles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\miles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471",
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj": {
+                "projectPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj"
+              }
+            }
+          },
+          "net471": {
+            "projectReferences": {
+              "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj": {
+                "projectPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        },
+        "net471": {}
+      }
+    },
+    "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj",
+        "projectName": "DynamicMethodsLib",
+        "projectPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj",
+        "packagesPath": "C:\\Users\\miles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\miles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471",
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          },
+          "net471": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "ICSharpCode.Decompiler": {
+              "target": "Package",
+              "version": "[4.0.0.4521, )"
+            },
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Reflection.DispatchProxy": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.Reflection.Emit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Reflection.Emit.Lightweight": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        },
+        "net471": {
+          "dependencies": {
+            "ICSharpCode.Decompiler": {
+              "target": "Package",
+              "version": "[4.0.0.4521, )"
+            },
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "System.Reflection.DispatchProxy": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.Reflection.Emit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Reflection.Emit.Lightweight": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodTest\\CoreConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodTest\\CoreConsoleApp.csproj",
+        "projectName": "CoreConsoleApp",
+        "projectPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodTest\\CoreConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\miles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\miles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\Contract\\Contract.csproj"
+              },
+              "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj": {
+                "projectPath": "C:\\Users\\miles\\source\\repos\\DynamicMethodDemo\\DynamicMethodsLib\\DynamicMethodsLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.11.4, )"
+            },
+            "ICSharpCode.Decompiler": {
+              "target": "Package",
+              "version": "[4.0.0.4521, )"
+            },
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Reflection.DispatchProxy": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.Reflection.Emit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Reflection.Emit.Lightweight": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

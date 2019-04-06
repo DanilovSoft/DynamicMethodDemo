@@ -1,0 +1,5 @@
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\bin\Debug\StaticAssembly.dll
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\bin\Debug\StaticAssembly.pdb
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\obj\Debug\StaticAssembly.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\obj\Debug\StaticAssembly.dll
+C:\Users\miles\source\repos\DynamicMethodTest\StaticAssembly\obj\Debug\StaticAssembly.pdb
